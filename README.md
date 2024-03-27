@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mehdiel1
 - 👀 I’m interested in .Net and C#
 - 🌱 I’m currently learning mobille app dev
-- 💞️ I’m looking to collaborate on a mobile app
 - 📫 How to reach me on github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
